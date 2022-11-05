@@ -13,7 +13,7 @@
 4. Place your CSV file in the folder “csv” of the cloned repo directory and rename it to data.csv
 
 
-5. Then Run "npm generate" or “yarn generate” on the terminal of the cloned repo. 
+5. Then Run "npm start" or “yarn start” on the terminal of the cloned repo. 
 
 
 6. A prompt will be shown and ask you to input the required team name e.g bevel, prybar, crankshaft, grit, engine, etc make sure to input a valid team name.
