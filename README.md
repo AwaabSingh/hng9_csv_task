@@ -1,4 +1,4 @@
-#Steps to use this script 
+# Steps to use this script 
 
 
 1. Clone the repo to your machine
